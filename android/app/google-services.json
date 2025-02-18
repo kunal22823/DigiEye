@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309144928396",
+    "project_id": "digieye-ad5a8",
+    "storage_bucket": "digieye-ad5a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309144928396:android:4c1821b0c3fa3ca1d87ba9",
+        "android_client_info": {
+          "package_name": "com.example.third_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCdXlHi70GSmLcNr8SiYr1ZgiWR8IJvF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
