@@ -25,3 +25,6 @@
 ```sh
 git clone https://github.com/kunal22823/DigiEye.git
 cd DigiEye
+flutter pub get
+flutter run
+
