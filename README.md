@@ -1,4 +1,4 @@
-
+## Digi-Eye 
 **Digi-Eye** is a **currency detection application** designed for visually impaired users. It utilizes **TensorFlow Lite (TFLite)** for real-time **Indian currency recognition** through the camera and provides **voice output** for accessibility. Additionally, it saves the detected currency name and timestamp to **Firebase** for record-keeping.  
 
 ## 🚀 Features  
