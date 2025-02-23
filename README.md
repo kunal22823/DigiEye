@@ -17,7 +17,8 @@
 - **TensorFlow Lite (TFLite)** (for machine learning-based currency detection)  
 - **Firebase** (for storing detection logs)  
 
-## 📸 Screenshots 
+## 📸 Dataset Link
+https://www.kaggle.com/datasets/pypiahmad/indian-rupees-and-thai-baht-banknotes
 
 ## 📦 Installation  
 
